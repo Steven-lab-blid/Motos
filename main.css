@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+h1{
+    color: blue;
+}
+
+.texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    width: 400px;
+    border-color: blue;
+}
+
+#imagen{
+    border-color: black;
+    border-width: 3px;
+    border-width: 5px;
+    border-style: dashed;
+}
